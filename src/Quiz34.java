@@ -1,6 +1,6 @@
 
 
-public class Quiz24 {
+public class Quiz34 {
 
 	public static void main(String[] args) {
 	 //산수문제 자동출제
